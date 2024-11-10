@@ -1,0 +1,4 @@
+<players root="gfx/characters/costumes/" nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/boss/" bigportraitroot="gfx/ui/stage/" costumeroot="gfx/characters/costumes/">
+	<player name="Amandine" skin="character_amandine.png" hp="2" armor="2" keys="1" nameimage="PlayerName_amandine.png" portrait="PlayerPortrait_amandine.png" bigportrait="PlayerPortraitBig_amandine.png" skinColor="-1" birthright="No one can resist" />
+    <player name="Tainted Amandine" skin="character_tainted_amandine.png" hp="4" coins="3" nameimage="PlayerName_amandine.png" portrait="PlayerPortrait_tainted_amandine.png" bigportrait="PlayerPortraitBig_tainted_amandine.png" skinColor="-1" bSkinParent="Amandine" birthright="No one will survive" />	
+</players>
